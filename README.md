@@ -38,4 +38,6 @@
 </p>
 <img align="center" src="https://file.garden/aXp7flselzgg6YA8/for%20joey/evil1.png" width="100%" height="auto" data-canonical-src="https://file.garden/aXp7flselzgg6YA8/for%20joey/evil1.png" style="max-width: 100%;">
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pyrolaand&color=000000&style=plastic&label=tankmen"> 
+<img height="60px;" src="https://file.garden/aXp7flselzgg6YA8/for%20joey/stamp6.jpg"> 
+<img height="60px;" src="https://file.garden/aXp7flselzgg6YA8/for%20joey/stamp7.jpg"> 
+<br><img src="https://komarev.com/ghpvc/?username=pyrolaand&color=000000&style=plastic&label=tankmen"> 
