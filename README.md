@@ -16,7 +16,7 @@
 <br><img src="https://file.garden/aXp7flselzgg6YA8/for%20joey/button.gif">
 </p>
 <p dir=auto>
-<table align="center"><th>
+<table align="left"><th>
   <img height="20px;" src="https://64.media.tumblr.com/fce2cb7589bd5f2ed39adba30cf44119/a44fb938fffc9e9c-0a/s75x75_c1/379268ae06cf64f8320a4f9d36c2da74ddc475bd.gif"> 
   links / info here
   <img height="20px;" src="https://64.media.tumblr.com/fce2cb7589bd5f2ed39adba30cf44119/a44fb938fffc9e9c-0a/s75x75_c1/379268ae06cf64f8320a4f9d36c2da74ddc475bd.gif">
@@ -25,7 +25,7 @@
   <br>more like men loving men (insert laugh track)
 </th></table>
 
-<table align="center"><th>
+<table align="right"><th>
 <details><summary>byi</summary>
   put your info here
 </details>
