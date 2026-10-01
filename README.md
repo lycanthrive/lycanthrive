@@ -7,7 +7,10 @@
 <img align="center" src="https://file.garden/aXp7flselzgg6YA8/for%20joey/tank1.png" width="100%" height="auto" data-canonical-src="https://file.garden/aXp7flselzgg6YA8/for%20joey/tank1.png" style="max-width: 100%;"><br>
 
 <p align="center">
-<img src="https://file.garden/aXp7flselzgg6YA8/for%20joey/stamp%20lineup.png"> 
+<img height="60px;" src="https://file.garden/aXp7flselzgg6YA8/for%20joey/stamp1.jpg"> 
+<img height="60px;" src="https://file.garden/aXp7flselzgg6YA8/for%20joey/stamp2.jpg"> 
+<img height="60px;" src="https://file.garden/aXp7flselzgg6YA8/for%20joey/stamp3.jpg"> 
+<img height="60px;" src="https://file.garden/aXp7flselzgg6YA8/for%20joey/stamp5.jpg"> 
 <br><img src="https://file.garden/aXp7flselzgg6YA8/for%20joey/button.gif">
 </p>
 <p dir=auto>
